@@ -14,6 +14,7 @@
 		F5E19DC32BCD46D600513C45 /* SwiftDiceRollerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E19DC22BCD46D600513C45 /* SwiftDiceRollerTests.swift */; };
 		F5E19DCD2BCD46D600513C45 /* SwiftDiceRollerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E19DCC2BCD46D600513C45 /* SwiftDiceRollerUITests.swift */; };
 		F5E19DCF2BCD46D600513C45 /* SwiftDiceRollerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E19DCE2BCD46D600513C45 /* SwiftDiceRollerUITestsLaunchTests.swift */; };
+		F5E19DDC2BCD470300513C45 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E19DDB2BCD470300513C45 /* HomeScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F5E19DC82BCD46D600513C45 /* SwiftDiceRollerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftDiceRollerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5E19DCC2BCD46D600513C45 /* SwiftDiceRollerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDiceRollerUITests.swift; sourceTree = "<group>"; };
 		F5E19DCE2BCD46D600513C45 /* SwiftDiceRollerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDiceRollerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F5E19DDB2BCD470300513C45 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				F5E19DB12BCD46D500513C45 /* SwiftDiceRollerApp.swift */,
 				F5E19DB32BCD46D500513C45 /* ContentView.swift */,
+				F5E19DDB2BCD470300513C45 /* HomeScreen.swift */,
 				F5E19DB52BCD46D600513C45 /* Assets.xcassets */,
 				F5E19DB72BCD46D600513C45 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				F5E19DB42BCD46D500513C45 /* ContentView.swift in Sources */,
 				F5E19DB22BCD46D500513C45 /* SwiftDiceRollerApp.swift in Sources */,
+				F5E19DDC2BCD470300513C45 /* HomeScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
